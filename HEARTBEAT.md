@@ -1,5 +1,4 @@
 # HEARTBEAT.md
 
-# Keep this file empty (or with only comments) to skip heartbeat API calls.
-
-# Add tasks below when you want the agent to check something periodically.
+# Backup Routine
+- [ ] Check `git status`. If there are uncommitted changes to important files (MEMORY.md, memory/*, AGENTS.md), commit and push them to origin/main. Message: "Auto-backup: [Date]"

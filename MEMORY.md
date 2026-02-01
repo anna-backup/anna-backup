@@ -9,4 +9,5 @@
 
 ## Key Directives
 - **Persistence:** Ensure all key info is written to file to survive crashes/restarts.
+- **Backup:** Git backup active. Remote: `https://github.com/anna-backup/anna-backup.git`.
 - **Product focus:** Coverletter Generator.
