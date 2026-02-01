@@ -29,5 +29,5 @@
     - Scheduler (or I post manually via Browser).
 
 ## Autonomy Requirements
-1.  **Login:** Need username/password.
-2.  **Assets:** Logo files, brand colors (I can extract these from the site).
+1.  **Login:** User logged in via Browser Relay.
+2.  **Assets:** Google Drive (https://drive.google.com/drive/folders/1hTaQ7Ndv-Ga7mXu_tIC67sofz9T5HCBt?usp=sharing).
