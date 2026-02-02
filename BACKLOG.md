@@ -8,8 +8,7 @@
 ## 📥 Inbox
 
 ## 🔥 Active
-- [ ] debugging quota issues and report back to human, Martin, at 15:05
-- [ ] Monitor "instagram-engagement-hourly" (Next run: ~60 mins).
+- [ ] Manual test of Instagram Engagement Task (Verification after Reset).
 
 ## ⏳ Pending (Rate Limit Buffer)
 *(Move tasks here when approaching limits)*
