@@ -8,7 +8,7 @@
 ## 📥 Inbox
 
 ## 🔥 Active
-- [ ] Monitor "instagram-engagement-hourly" (Next run: ~4 mins).
+- [ ] Monitor "instagram-engagement-hourly" (Next run: ~60 mins).
 
 ## ⏳ Pending (Rate Limit Buffer)
 *(Move tasks here when approaching limits)*
