@@ -9,6 +9,7 @@
 
 ## 🔥 Active
 - [ ] Manual test of Instagram Engagement Task (Verification after Reset).
+- [ ] Monitor Context Size (Reset threshold: 80k tokens).
 
 ## ⏳ Pending (Rate Limit Buffer)
 *(Move tasks here when approaching limits)*
