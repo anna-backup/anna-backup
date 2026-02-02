@@ -31,3 +31,8 @@
 ## Autonomy Requirements
 1.  **Login:** User logged in via Browser Relay.
 2.  **Assets:** Google Drive (https://drive.google.com/drive/folders/1hTaQ7Ndv-Ga7mXu_tIC67sofz9T5HCBt?usp=sharing).
+
+## Phase 2: Automated Engagement (Commentary Bot)
+- **Source Instructions:** See `marketing/engagement-instructions.md`
+- **Cron Job:** `instagram-engagement-hourly`
+- **Tactic:** Authentic commenting on #jobseeker hashtags.

@@ -11,6 +11,7 @@
 - [ ] Monitor "instagram-engagement-hourly" (Next run: ~60 mins).
 
 ## ⏳ Pending (Rate Limit Buffer)
+- [ ] Create 24h Instagram Schedule Tracking File (Source: ManusAI research). ETA: +30 mins.
 *(Move tasks here when approaching limits)*
 
 ## ✅ Done
