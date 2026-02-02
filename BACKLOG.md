@@ -8,6 +8,7 @@
 ## 📥 Inbox
 
 ## 🔥 Active
+- [ ] debugging quota issues and report back to human, Martin, at 15:05
 - [ ] Monitor "instagram-engagement-hourly" (Next run: ~60 mins).
 
 ## ⏳ Pending (Rate Limit Buffer)
