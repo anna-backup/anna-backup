@@ -6,12 +6,13 @@
 > - Strategy: Space out work. Batch small tasks. Avoid massive context re-reads in tight loops.
 
 ## 📥 Inbox
-- [ ] Investigate "commentary" task mentioned by Martin (verify what this refers to).
 
 ## 🔥 Active
-- [ ] Setup backlog structure (This file).
+- [ ] Monitor "instagram-engagement-hourly" (Next run: ~4 mins).
 
 ## ⏳ Pending (Rate Limit Buffer)
 *(Move tasks here when approaching limits)*
 
 ## ✅ Done
+- [x] Investigate "commentary" task (Verified: Cron `instagram-engagement-hourly` is active).
+- [x] Setup backlog structure (This file).
