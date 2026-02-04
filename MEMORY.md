@@ -18,4 +18,8 @@
     - Max Requests/Day: < 200
     - Max Input Tokens/Min: < 100,000
 - **Strategy:** Space out work. Prioritize stability over speed. Take longer to answer if needed to avoid limits.
+- **Token Management (SAFETY):** 
+    - Context limit: 100,000 tokens. 
+    - If context > 100k, MUST move current session JSONL to `.old` and call `gateway restart` to force a clean slate. 
+    - Wait 30s between large requests (>50k tokens) to stay within per-minute limits.
 - **User Pattern:** Learn Martin's high-request times (likely EU mornings/workdays) and conserve quota for those windows.
